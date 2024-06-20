@@ -1,0 +1,3 @@
+[submodule "ingestion-engine"]
+	path = ingestion-engine
+	url = ./ingestion-engine
